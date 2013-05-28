@@ -1,4 +1,4 @@
 HelloGitHub
 ===========
 
-Example repository
+Example repository created for ... demo !
